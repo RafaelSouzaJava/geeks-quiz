@@ -1,4 +1,6 @@
-import { createGlobalStyle, ThemeProvider } from 'styled-components'
+import React from 'react';
+import { createGlobalStyle, ThemeProvider } from 'styled-components';
+import Header from 'next/head';
 import db from '../db.json';
 
 const GlobalStyle = createGlobalStyle`
@@ -21,17 +23,29 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
   }
-`
+`;
 
-const theme = db.theme;
+const { theme } = db;
 
+// eslint-disable-next-line react/prop-types
 export default function App({ Component, pageProps }) {
   return (
     <>
+      <Header>
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+          rel="stylesheet"
+        />
+      </Header>
       <ThemeProvider theme={theme}>
         <GlobalStyle />
+        {/* eslint-disable-next-line react/jsx-props-no-spreading */}
         <Component {...pageProps} />
       </ThemeProvider>
     </>
-  )
+  );
 }
