@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 import React from 'react';
 import db from '../db.json';
 import Widget from '../src/components/Widget';
-import QuizLogo from '../src/components/QuizLogo';
+
 import QuizBackground from '../src/components/QuizBackground';
 import Footer from '../src/components/Footer';
 import GitHubCorner from '../src/components/GitHubCorner';
@@ -40,7 +40,6 @@ export default function Home() {
         <title>Geeks Quiz</title>
       </Header>
       <QuizContainer>
-        <QuizLogo />
         <Widget>
           <Widget.Header>
             <h1>{db.title}</h1>
