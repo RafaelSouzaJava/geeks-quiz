@@ -4,25 +4,197 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://pa1.narvii.com/6657/2e4e6d358f73846f0564874bed9c069acd72379e_00.gif",
+      "title": "Qual o Nome do Guardião das Relíquias Do Milênio?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 4,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Ishizu",
+        "Odion",
+        "Pégasus",
+        "Dartz",
+        "Shadi",
+        "Tristan"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://pa1.narvii.com/6657/3605afe8fcef0c933b89c25a5402b708b4c8a18c_hq.gif",
+      "title": "Quantas Reliquias do Milenio existem?",
       "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+         "3",
+         "8",
+         "7",
+         "6",
+         "5"
+      ]
+    },
+    {
+      "image": "https://data.whicdn.com/images/293323115/original.gif",
+      "title": "Quantas Cartas de Deuses Egípcios Existem?",
+      "description": "Tente acerta essa kkk",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "3",
+         "2",
+         "6",
+         "5",
+         "4",
+         "1"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/4ZpM9eCuday7RVz3N6/giphy.gif",
+      "title": "Qual é a vantagem de controlar uma criatura com iniciativa?",
+      "description": "Conhecimento Basico de Magic",
+      "answer": 2,
+      "alternatives": [
+         "Ela pode atacar no mesmo turno em que entrou",
+         "Ela pode ser conjurada a qualquer momento como se fosse uma mágica instantânea",
+         "Ela causa dano primeiro em uma luta com outra criatura",
+         "Ela só pode ser conjurada na primeira fase principal",
+         "Ela pode atacar mais de uma vez no mesmo turno"
+      ]
+    },
+    {
+      "image": "https://media0.giphy.com/media/nnKlfZa3FUKbS3Wmrw/giphy.gif",
+      "title": "Quais são os tipos de mana disponíveis?",
+      "description": "Conhecimento Basico de Magic",
+      "answer": 3,
+      "alternatives": [
+         "Branca, Azul, Verde, Vermelha e Preta",
+         "Azul, Verde, Amarela, Vermelha e Preta",
+         "Branca, Azul, Verde, Amarela, Vermelha e Incolor",
+         "Verde, Vermelha, Preta, Azul, Branca e Incolor",
+         "Vermelha, Preta, Azul, Amarela e Cinza"
+      ]
+    },
+    {
+      "image": "https://media1.giphy.com/media/Xc4F8VuOVX6dgN8P40/giphy.gif",
+      "title": "Verdadeiro ou Falso? As criaturas com Voar só podem ser bloqueadas por criaturas que possuem a habilidade de Voar.",
+      "description": "Leia atentamente.",
+      "answer": 1,
+      "alternatives": [
+         "Verdadeiro",
+         "Falso"         
+      ]
+    },
+    {
+      "image": "https://media3.giphy.com/media/S6BLhq4ZOvIdN0WVEQ/giphy.gif",
+      "title": "Quem é o FLASH?",
+      "description": "Teste seu conhecimento sobre a serie Flash",
+      "answer": 0,
+      "alternatives": [
+         "Barry Allen",
+         "Barry Alen",
+         "Iris",
+         "Cisco Ramon",
+         "Joe West"  
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5c912d2c5a0050.04901561.jpg?lastEdited=1553018166",
+      "title": "Quem é a outra velocista ao lado do flash?",
+      "description": "Teste seu conhecimento sobre a serie Flash",
+      "answer": 0,
+      "alternatives": [
+         "É a filha dele",
+         "A amiga dele",
+         "A esposa dele"         
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5c9131ac9dd547.60315811.jpg?lastEdited=1553019312",
+      "title": "Qual é o nome dela e qual é o nome de velocista dela?",
+      "description": "Teste seu conhecimento sobre a serie Flash",
+      "answer": 1,
+      "alternatives": [
+         "Iris West-Allen/Flash Reversa",
+         "Nora West-Allen/X-S",         
+         "Jesse Allen/Violet Beane",
+         "Nenhuma das anteriores"         
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5c91339848f707.50981413.jpg?lastEdited=1553019805",
+      "title": "Em que temporada o flash, o arqueiro verde, o superman e a supergirl se juntam?",
+      "description": "Teste seu conhecimento sobre a serie Flash",
+      "answer": 2,
+      "alternatives": [
+         "4° temporada",
+         "3° temporada",         
+         "5° temporada",
+         "Nenhuma das anteriores"         
+      ]
+    },
+    {
+      "image": "https://i.gifer.com/R8RV.gif",
+      "title": "Que dia o gta v foi criado?",
+      "description": "Você Conhece Grand Theft Auto V",
+      "answer": 1,
+      "alternatives": [
+         "14 de abril de 2008",
+         "17 de setembro de 2013",
+         "20 de junho de 2015"        
+      ]
+    },
+    {
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/da19bdc4-c7bb-4fe1-9c5a-89669ea9a0b8/d82ck9g-f3b1ee94-f1bc-47e6-8165-3c16d5d76def.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGExOWJkYzQtYzdiYi00ZmUxLTljNWEtODk2NjllYTlhMGI4XC9kODJjazlnLWYzYjFlZTk0LWYxYmMtNDdlNi04MTY1LTNjMTZkNWQ3NmRlZi5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.SRqizQAl4TejWPvK2ntluUUTfWQZpuYDWuC1qugTOsU",
+      "title": "Qual foi a primeira plataforma que grand theft auto foi criado",
+      "description": "Você Conhece Grand Theft Auto V",
+      "answer": 0,
+      "alternatives": [
+         "playstation 3 / xbox 360",
+         "playstation 4 / xbox one"           
+      ]
+    },
+    {
+      "image": "https://i.makeagif.com/media/8-05-2016/lSrcfm.gif",
+      "title": "Quais são as 6 classes?",
+      "description": "Teste seu conhecimento sobre Cabal Online",
+      "answer": 1,
+      "alternatives": [
+         "Druida, Feiticeiro, Sumonador, Mago, Guerreiro e Leitor.",
+         "Duelista, Mago, Arqueiro, Guerreiro, Espada-Chin e Guardião.",
+         "Arcano, Mistico, Barbaro, Sacerdote, Mercenários e Feiticeiro.",
+         "Duelista, Sacerdote, Atirador, Polícia, Explorador e Arqueiro.",
+         "Brasileiros, Asiáticos, Spartans, Gregos, Americanos e Africanos."         
+      ]
+    },
+    {
+      "image": "https://i.makeagif.com/media/9-02-2014/iPcOMR.gif",
+      "title": "Qual o nome da 'Missão' de tempo?",
+      "description": "Teste seu conhecimento sobre Cabal Online",
+      "answer": 4,
+      "alternatives": [
+         "Exploração",
+         "Batalhas",
+         "Guerra",
+         "Catacumba",
+         "Calabouço"  
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5eb9bdd3a5cd90.05507051.png?lastEdited=1589231066",
+      "title": "Quem é esse?",
+      "description": "Teste seu conhecimento sobre call of duty",
+      "answer": 2,
+      "alternatives": [
+         "Domino",
+         "Alex",
+         "Simon 'Ghost' Riley"         
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/37/b6/6f/37b66fa64d6a3680ad09c947603da134.gif",
+      "title": "Qual foi o Primeiro Jogo?",
+      "description": "Teste seu conhecimento sobre call of duty",
+      "answer": 1,
+      "alternatives": [
+         "WW2",
+         "Modern Warfare-Paris Legion",
+         "Ghosts"         
       ]
     }
   ],
